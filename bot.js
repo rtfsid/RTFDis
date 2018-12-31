@@ -664,7 +664,7 @@ message.channel.send(embed);
 
 client.on('ready', function(){    
     var ms = 40000 ;    
-    var setGame = ['شغل خالد الرشيدي','صلو على النبي  '];    
+    var setGame = ['شغل إدارة السيرفر','صلو على النبي  '];    
     var i = -1;    
     var j = 0;    
     setInterval(function (){    
